@@ -1,0 +1,17 @@
+atom.symlink/.apm
+atom.symlink/.node-gyp
+atom.symlink/.storage
+atom.symlink/blob-store
+atom.symlink/compile-cache/
+atom.symlink/packages
+atom.symlink/storage
+atom.symlink/themes
+atom.symlink/blob-store
+atom.symlink/recovery
+
+config.symlink/base16-shell/*
+git/gitconfig.local.symlink
+irssi.symlink/config
+vim/plugged/*
+vim/autoload/plug.vim
+vim/colors/base16-*
