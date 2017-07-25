@@ -4,5 +4,5 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 # Download Vim plugins.
 if [[ "$(type -P vim)" ]]; then
-  mvim -v +PlugUpgrade +PlugUpdate +qall
+  mvim -v '+PlugUpgrade +PlugUpdate +qall'
 fi
