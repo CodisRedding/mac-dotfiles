@@ -11,7 +11,7 @@ atom.symlink/themes
 config.symlink/base16-shell/
 git/gitconfig.local.symlink
 irssi.symlink/config
-vim/autoload/plug.vim
-vim/colors/base16-*
-vim/plugged/
-vim/undodir/
+vim.symlink/autoload/plug.vim
+vim.symlink/colors/base16-*
+vim.symlink/plugged/**
+vim.symlink/undodir/**

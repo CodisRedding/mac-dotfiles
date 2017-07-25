@@ -23,7 +23,9 @@ Run this:
 
 Since macvim now requires the full version of xcode it must be installed first. (wtfuckface).
 
+run this after xcode installs
 ```sh
+sudo xcodebuild -license accept
 git clone https://github.com/holman/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
